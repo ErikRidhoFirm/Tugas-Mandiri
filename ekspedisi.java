@@ -566,6 +566,7 @@ public class ekspedisi {
 
                 } else if (pilih.equals("8")) {
                     System.out.println("keluar");
+                    System.out.println("terimaksih sudah menggunakan layanan kami");
                     System.exit(0);
                 }
             }
